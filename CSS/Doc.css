@@ -1,6 +1,6 @@
 #Banner {
     width: 100%;
-    height: 400px;
+    padding: 100px 0;
     background-image: linear-gradient(to right, #FAFAFA, #FAFAFA00), url(../Image/BannerPicture.jpg);
     background-size: cover;
     background-position: center center;
@@ -8,7 +8,6 @@
 }
 
 #BannerTitleArea {
-    margin-top: 100px;
     margin-left: 10%;
 }
 
