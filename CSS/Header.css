@@ -23,7 +23,6 @@ li a {
     text-decoration: none;
     color: #00000080;
     display: block;
-    font-family: MiSans;
     font-weight: 400;
     font-size: 12px;
     height: 100%;
@@ -42,7 +41,6 @@ img {
 #Title {
     color: #000000CC;
     display: block;
-    font-family: MiSans;
     font-weight: 900;
     font-size: 18px;
     background: linear-gradient(to bottom right, #75B1FF, #2A8AF7);

@@ -1,6 +1,7 @@
 @font-face {
     font-family: MiSans;
     src: url(../Fonts/MiSans\ VF.ttf) format(truetype);
+    font-weight: 100 900;
 }
 
 @font-face {
@@ -10,12 +11,11 @@
 
 a, i, em, u, s, b, strong, p, h1, h2, h3, h4, h5, h6 {
     color: #000000cc;
-    font-family: MiSans;
 }
 
 .Lable {
     color: #00000080;
-    line-height: 1.5;
+    letter-spacing: 2px;
 }
 
 .BannerTitle {
