@@ -8,13 +8,14 @@
     src: url(../Fonts/Segoe\ Fluent\ Icons.ttf) format(truetype);
 }
 
-p, h1, h2, h3, h4, h5, h6 {
+a, i, em, u, s, b, strong, p, h1, h2, h3, h4, h5, h6 {
     color: #000000cc;
+    font-family: MiSans;
 }
 
 .Lable {
     color: #00000080;
-    line-height: 1.25;
+    line-height: 1.5;
 }
 
 .BannerTitle {
