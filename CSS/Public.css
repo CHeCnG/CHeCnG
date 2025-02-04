@@ -10,14 +10,16 @@ body {
 }
 
 button {
-    height: 24px;
-    width: 192px;
-    border-radius: 12px;
+    height: 36px;
+    padding-left: 72px;
+    padding-right: 72px;
+    border-radius: 18px;
     border-style: none;
     background-color: #0000000d;
     color: #00000080;
     font-family: MiSans;
     font-weight: 600;
+    font-size: 16px;
 }
 
 button:hover {
