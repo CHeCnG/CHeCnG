@@ -24,7 +24,7 @@ li a {
     color: #00000080;
     display: block;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     height: 100%;
     line-height: 50px;
 }
@@ -42,7 +42,7 @@ img {
     color: #000000CC;
     display: block;
     font-weight: 900;
-    font-size: 20px;
+    font-size: 18px;
     background: linear-gradient(to bottom right, #75B1FF, #2A8AF7);
     background-clip: text;
     -webkit-text-fill-color: transparent;
